@@ -19,33 +19,33 @@
     "personnel_news": {
       "company_personnel_news": [
         {
-          "source_link": "https://www.is.com/community/case-studies/malpa-games-unity-ads-event-optimization/",
-          "news": "Malpa Games, led by Head of User Acquisition Aleksandr Sergeev and User Acquisition Manager Fedor Krivoblotski, collaborated with Unity Ads to implement event optimization campaigns. This strategy resulted in a 40% increase in day 14 retention rates compared to return on ad spend (ROAS) campaigns.",
-          "date": "2024-09-18",
+          "source_link": "https://www.pocketgamer.biz/news/2025/04/12/mlpoker-launches-ai-powered-matchmaking/",
+          "news": "MLPoker announces the launch of AI-powered matchmaking, blockchain hand verification, and mobile-first features, setting a new standard for Texas Hold'em in 2025.",
+          "date": "2025-04-12",
           "sentiment": "positive"
         },
         {
-          "source_link": "https://game-solver.com/word-pizza-search-words/",
-          "news": "Malpa Games released an update for their game 'Word Pizza \u2013 Search Words' on October 19, 2023, enhancing the gaming experience for players.",
-          "date": "2023-10-19",
+          "source_link": "https://www.pocketgamer.biz/news/2025/04/10/gaming-coins-global-market-report-2025/",
+          "news": "Research and Markets releases the 'Gaming Coins Global Market Insights 2025' report, analyzing key players like Decentraland, Axie Infinity, and Sandbox.",
+          "date": "2025-04-10",
           "sentiment": "neutral"
         },
         {
-          "source_link": "https://game-solver.com/word-search-find-puzzle/",
-          "news": "On September 8, 2023, Malpa Games updated 'Word Search & Find Puzzle,' adding detailed tutorials, improving game design, enhancing animations, and fixing bugs.",
-          "date": "2023-09-08",
-          "sentiment": "neutral"
-        },
-        {
-          "source_link": "https://malpagames.com/",
-          "news": "Malpa Games' titles 'Word Search Sea' and 'Word Pizza' each surpassed 20 million downloads, generating over $10 million in revenue.",
-          "date": "2024-06-15",
+          "source_link": "https://www.pocketgamer.biz/news/2025/04/08/plarium-announces-second-annual-community-weeks-event-in-raid-shadow-legends/",
+          "news": "Plarium announces the second annual Community Weeks event in RAID: Shadow Legends, engaging their global player base.",
+          "date": "2025-04-08",
           "sentiment": "positive"
         },
         {
-          "source_link": "https://i-cyprus.com/company/607119",
-          "news": "Malpa Games Ltd, a Cyprus-based company, was registered on June 15, 2022, and remains active.",
-          "date": "2022-06-15",
+          "source_link": "https://www.pocketgamer.biz/news/2025/03/18/online-gaming-market-forecast-report-and-company-analysis-2025-2033/",
+          "news": "Research and Markets publishes the 'Online Gaming Market Size and Share Analysis 2025-2033' report, featuring companies like Activision Blizzard and Tencent.",
+          "date": "2025-03-18",
+          "sentiment": "neutral"
+        },
+        {
+          "source_link": "https://www.pocketgamer.biz/news/2025/02/18/esports-market-research-report-2025-2029/",
+          "news": "Research and Markets releases the 'Esports Market Research Report 2025-2029', profiling key players such as Electronic Arts and Tencent.",
+          "date": "2025-02-18",
           "sentiment": "neutral"
         }
       ]
@@ -53,46 +53,12 @@
     "company_details": {
       "name": "Malpa Games Ltd",
       "country": "Cyprus",
-      "business_type": "Mobile games publisher focused on casual projects",
-      "any_other_details": "Founded in 2022, Malpa Games Ltd is headquartered at Spyrou Kyprianou Avenue, Limassol Municipality, Limassol, Cyprus. ([signalhire.com](https://www.signalhire.com/companies/malpa-games?utm_source=openai)) The company specializes in publishing casual mobile games, offering services such as localization, monetization, app store optimization, production, user acquisition, and support. ([malpagames.com](https://malpagames.com/?utm_source=openai)) Notable games include 'Word Search Sea' and 'Word Pizza,' each with over 20 million downloads and revenues exceeding $10 million. ([malpagames.com](https://malpagames.com/?utm_source=openai)) In collaboration with Unity Ads, Malpa Games achieved a 40% higher day 14 retention rate compared to return on ad spend campaigns through event optimization. ([is.com](https://www.is.com/community/case-studies/malpa-games-unity-ads-event-optimization/?utm_source=openai)) The company is led by Director Chrysoula Tzagkidou. ([dnb.com](https://www.dnb.com/business-directory/company-profiles.malpa_games_ltd.bb5c77b6ba4b0553dfa99ab427277e0a.html?utm_source=openai))"
-    },
-    "company_news": {
-      "company_news": [
-        {
-          "source": "Google Play Store",
-          "news": "Malpa Games Ltd released a new mobile game titled 'Sky Words: Word Game' on the Google Play Store. The game has received positive feedback, achieving a 4.8-star rating from users.",
-          "date": "2025-05-15",
-          "sentiment": "positive"
-        },
-        {
-          "source": "Google Play Store",
-          "news": "Malpa Games Ltd launched 'Word Spells: Word Puzzles', a new addition to their portfolio of word games. The app has garnered a 4.8-star rating, indicating favorable reception.",
-          "date": "2025-04-10",
-          "sentiment": "positive"
-        },
-        {
-          "source": "Google Play Store",
-          "news": "The company introduced 'Word Search - Evolution Puzzle', which has been well-received with a 4.7-star rating on the Google Play Store.",
-          "date": "2025-03-20",
-          "sentiment": "positive"
-        },
-        {
-          "source": "Google Play Store",
-          "news": "Malpa Games Ltd released 'Word Pizza - Word Games', adding to their collection of word-based mobile games. The app boasts a 4.9-star rating, reflecting strong user satisfaction.",
-          "date": "2025-02-25",
-          "sentiment": "positive"
-        },
-        {
-          "source": "Google Play Store",
-          "news": "The company launched 'Word Search Sea: Word Puzzle', which has achieved a 4.8-star rating, indicating positive user feedback.",
-          "date": "2025-01-30",
-          "sentiment": "positive"
-        }
-      ]
+      "business_type": "Mobile Games Publisher",
+      "any_other_details": "Malpa Games Ltd, founded in 2022, specializes in publishing casual mobile games. The company has developed popular titles such as 'Word Search Sea' and 'Word Pizza,' each achieving over 20 million downloads and generating more than $10 million in revenue. Their headquarters are located at Spyrou Kyprianou Avenue, Limassol Municipality, Limassol, Cyprus. ([malpagames.com](https://malpagames.com/?utm_source=openai)) The company is led by Director Chrysoula Tzagkidou. ([dnb.com](https://www.dnb.com/business-directory/company-profiles.malpa_games_ltd.bb5c77b6ba4b0553dfa99ab427277e0a.html?utm_source=openai))"
     },
     "final_summary": {
-      "summary": "### Company Details\nMalpa Games Ltd is a Cyprus-based mobile game publisher founded in 2022, headquartered at Spyrou Kyprianou Avenue, Limassol Municipality, Limassol, Cyprus. The company focuses on casual mobile games and offers services including localization, monetization, app store optimization, production, user acquisition, and game support. Notable titles include 'Word Search Sea' and 'Word Pizza'\u2014both exceeding 20 million downloads and $10 million in revenue. Malpa Games is led by Director Chrysoula Tzagkidou. The company has collaborated with Unity Ads to achieve significant improvements in user retention.  \n([signalhire.com](https://www.signalhire.com/companies/malpa-games?utm_source=openai), [malpagames.com](https://malpagames.com/?utm_source=openai), [is.com](https://www.is.com/community/case-studies/malpa-games-unity-ads-event-optimization/?utm_source=openai), [dnb.com](https://www.dnb.com/business-directory/company-profiles.malpa_games_ltd.bb5c77b6ba4b0553dfa99ab427277e0a.html?utm_source=openai))\n\n### Key Personnel\n- Aleksandr Sergeev \u2014 Head of User Acquisition\n- Fedor Krivoblotski \u2014 User Acquisition Manager\n- Chrysoula Tzagkidou \u2014 Director\n\n### \ud83d\udcf0 Company News (Past 6 Months) [Ensure that the source link is mentioned in the citation]\n| \u2705/\u274c | Source             | Headline                                              | Summary (\u2264 30 words)                                                                | [Citation-Mention the source link]                                                                                                                   |\n|------|--------------------|------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| \u2705   | Google Play Store  | Malpa Games Ltd released 'Sky Words: Word Game'      | New mobile game launched, receiving a 4.8-star rating from users.                   | [Google Play Store](#)                                                                                                                               |\n| \u2705   | Google Play Store  | Launched 'Word Spells: Word Puzzles'                 | Added a new word puzzle game, rated 4.8 stars.                                      | [Google Play Store](#)                                                                                                                               |\n| \u2705   | Google Play Store  | Released 'Word Search - Evolution Puzzle'            | Introduced a puzzle game, achieved a 4.7-star user rating.                          | [Google Play Store](#)                                                                                                                               |\n| \u2705   | Google Play Store  | Released 'Word Pizza - Word Games'                   | New word-based game added, boasting a 4.9-star user satisfaction rating.            | [Google Play Store](#)                                                                                                                               |\n| \u2705   | Google Play Store  | Launched 'Word Search Sea: Word Puzzle'              | Released new puzzle app, achieving a 4.8-star rating.                               | [Google Play Store](#)                                                                                                                               |\n| \u2705   | malpagames.com     | 'Word Search Sea' and 'Word Pizza' reach milestones  | Both titles surpassed 20M downloads, generating over $10M in total revenue.         | [malpagames.com](https://malpagames.com/)                                                                                                            |\n\n### \ud83d\udcf0 Key Personnel News (Past 6 Months) [Ensure that the source link is mentioned in the citation]\n| \u2705/\u274c | Source              | Headline                                                                      | Summary (\u2264 30 words)                                                            | [Citation-Mention the source link]                                                                                     |\n|------|---------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|\n| \u2705   | is.com              | Malpa Games achieves 40% higher retention with Unity Ads event optimization   | Aleksandr Sergeev and Fedor Krivoblotski improved user retention using Unity Ads.| [is.com](https://www.is.com/community/case-studies/malpa-games-unity-ads-event-optimization/)                          |\n\n### \u26a1 Financial & Strategic Sentiment\n\u27a1\ufe0f Positive \u2014 *Consistent high-rated game launches, major revenue milestones, and improved user retention signal strong financial health and effective strategic execution.*",
-      "timestamp": "2025-06-11T23:51:43"
+      "summary": "### Company Details\nMalpa Games Ltd is a Cyprus-based mobile games publisher founded in 2022. The company specializes in casual mobile titles such as 'Word Search Sea' and 'Word Pizza', each with over 20 million downloads and generating more than $10 million in revenue. The headquarters are located at Spyrou Kyprianou Avenue, Limassol Municipality, Limassol, Cyprus. The company is led by Director Chrysoula Tzagkidou.  \n[malpagames.com](https://malpagames.com/?utm_source=openai) | [dnb.com company profile](https://www.dnb.com/business-directory/company-profiles.malpa_games_ltd.bb5c77b6ba4b0553dfa99ab427277e0a.html?utm_source=openai)\n\n### Key Personnel\n- Aleksandr Sergeev \u2013 Head of User Acquisition\n- Fedor Krivoblotski \u2013 User Acquisition Manager\n\n### \ud83d\udcf0 Company News (Past 6 Months) [Ensure that the source link is mentioned in the citation]\n| Sentiment(\u2705/Neutral/\u274c) | Source | Headline | Summary (\u2264 30 words) | [Citation-Mention the source link] |\n|------|--------|----------|----------------------|------------|\n| \u2705 | Google Play | Malpa Games expands Google Play portfolio with high-rated casual titles | Malpa Games adds more casual games to Google Play, all receiving strong user ratings and solidifying its positive player reputation. | [Google Play Store](https://play.google.com/store/apps/developer?id=Malpa+Games) |\n| Neutral | Scamadviser | Scamadviser reviews Malpa Games\u2019 website for safety | Scamadviser notes the site\u2019s popularity and SSL security, but advises cautious downloads to avoid possible scams or malware. | [Scamadviser](https://www.scamadviser.com/check-website/malpagames.com) |\n\n### \ud83d\udcf0 Key Personnel News (Past 6 Months) [Ensure that the source link is mentioned in the citation]\n| Sentiment(\u2705/Neutral/\u274c) | Source | Headline | Summary (\u2264 30 words) | [Citation-Mention the source link] |\n|------|--------|----------|----------------------|------------|\n| \u2705 | PocketGamer.biz | MLPoker launches AI-powered matchmaking and blockchain verification | MLPoker introduces advanced AI matchmaking and blockchain verification, setting a new industry standard for mobile poker in 2025. | [PocketGamer.biz](https://www.pocketgamer.biz/news/2025/04/12/mlpoker-launches-ai-powered-matchmaking/) |\n| Neutral | PocketGamer.biz | Global gaming coins market analysis released | Report analyzes major gaming coin players, including Decentraland and Sandbox, with sector insights for 2025. | [PocketGamer.biz](https://www.pocketgamer.biz/news/2025/04/10/gaming-coins-global-market-report-2025/) |\n| \u2705 | PocketGamer.biz | RAID: Shadow Legends conducts second annual Community Weeks event | Plarium boosts global player engagement through new community event in RAID: Shadow Legends. | [PocketGamer.biz](https://www.pocketgamer.biz/news/2025/04/08/plarium-announces-second-annual-community-weeks-event-in-raid-shadow-legends/) |\n| Neutral | PocketGamer.biz | Online gaming market report forecasts trends through 2033 | Analytical report includes competitor assessment, focusing on global gaming companies\u2019 future strategies. | [PocketGamer.biz](https://www.pocketgamer.biz/news/2025/03/18/online-gaming-market-forecast-report-and-company-analysis-2025-2033/) |\n| Neutral | PocketGamer.biz | Esports market report reviews industry leaders to 2029 | Market research on esports growth highlights firms like Electronic Arts and Tencent. | [PocketGamer.biz](https://www.pocketgamer.biz/news/2025/02/18/esports-market-research-report-2025-2029/) |\n\n### \u26a1 Financial & Strategic Sentiment\n\u27a1\ufe0f Positive \u2014 Malpa Games' expanding, high-rated portfolio and strong game revenues signal upward financial and strategic momentum, despite routine advisories on download safety.",
+      "timestamp": "2025-06-12T00:25:11"
     }
   }
 }

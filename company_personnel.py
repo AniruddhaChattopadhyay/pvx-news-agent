@@ -115,6 +115,7 @@ def get_company_personnel_news(
     )
     res: CompanyPersonnelNewsResponse = response.output_parsed
     print(res)
+    print(response)
     return res.model_dump_json(indent=2)
 
 

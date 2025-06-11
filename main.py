@@ -68,7 +68,6 @@ TRUSTED_NEWS_SOURCES = {
 # --------------------------------------------------
 # OpenAI client
 # --------------------------------------------------
-print(os.getenv("OPENAI_API_KEY"))
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
@@ -181,25 +180,25 @@ def save_intermediate_data(company: str, key: str, data: str):
 def run_news_agent(company: str) -> str:
     """Calls OpenAI with web search tool to obtain a summary."""
 
-    # personnel = get_company_personnel(client, company)
-    # save_intermediate_data(company, "personnel", personnel)
+    personnel = get_company_personnel(client, company)
+    save_intermediate_data(company, "personnel", personnel)
 
-    # personnel_news = get_company_personnel_news(
-    #     client, company, personnel, NUMBER_OF_DAYS, TRUSTED_NEWS_SOURCES
-    # )
-    # save_intermediate_data(company, "personnel_news", personnel_news)
+    personnel_news = get_company_personnel_news(
+        client, company, personnel, NUMBER_OF_DAYS, TRUSTED_NEWS_SOURCES
+    )
+    save_intermediate_data(company, "personnel_news", personnel_news)
 
-    # company_details = get_company_details(client, company)
-    # save_intermediate_data(company, "company_details", company_details)
+    company_details = get_company_details(client, company)
+    save_intermediate_data(company, "company_details", company_details)
 
-    # company_news = get_company_news(
-    #     client, company, company_details, NUMBER_OF_DAYS, TRUSTED_NEWS_SOURCES
-    # )
+    company_news = get_company_news(
+        client, company, company_details, NUMBER_OF_DAYS, TRUSTED_NEWS_SOURCES
+    )
     # save_intermediate_data(company, "company_news", company_news)
-    personnel = load_company_data()[company]["personnel"]
-    personnel_news = load_company_data()[company]["personnel_news"]
-    company_details = load_company_data()[company]["company_details"]
-    company_news = load_company_data()[company]["company_news"]
+    # personnel = load_company_data()[company]["personnel"]
+    # personnel_news = load_company_data()[company]["personnel_news"]
+    # company_details = load_company_data()[company]["company_details"]
+    # company_news = load_company_data()[company]["company_news"]
     print("--------------------------------")
     print(
         format_prompt(company, personnel, personnel_news, company_details, company_news)

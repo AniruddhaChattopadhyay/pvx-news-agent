@@ -12,7 +12,7 @@ class CompanyDetails(BaseModel):
 
 
 class CompanyNews(BaseModel):
-    source: str
+    source_link: str
     news: str
     date: str
     sentiment: str
@@ -50,7 +50,7 @@ json format:
 """
 
 
-def format_prompt_company_personnel_news_prompt(
+def format_prompt_company_news_prompt(
     company: str, company_details: str, days: int, TRUSTED_NEWS_SOURCES: dict[str, list[str]]
 ) -> str:
     
@@ -119,7 +119,7 @@ def get_company_news(
         temperature=0.2,
         tools=[{"type": "web_search_preview"}],
         tool_choice={"type": "web_search_preview"},
-        input=format_prompt_company_personnel_news_prompt(
+        input=format_prompt_company_news_prompt(
             company, company_details, days, TRUSTED_NEWS_SOURCES
         ),
         text_format=CompanyNewsResponse,
